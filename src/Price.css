@@ -1,0 +1,6 @@
+.price{
+    font-size: 22px;
+    color: rgb(12, 146, 12);
+    display: flex;
+    justify-content: center;
+}
